@@ -1,2 +1,2 @@
-# Python-complete-guide
-Its all about python basics.
+# Python-Complete-Guide
+It's all about python basic to advance.
